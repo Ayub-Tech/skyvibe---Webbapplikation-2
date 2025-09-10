@@ -1,0 +1,17 @@
+bin/
+obj/
+out/
+.vs/
+.idea/
+*.user
+*.suo
+*.log
+TestResult*/
+*.trx
+.nuget/
+packages/
+.DS_Store
+Thumbs.db
+*.db
+*.db-shm
+*.db-wal
